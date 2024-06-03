@@ -1,0 +1,3 @@
+C:/Users/zheep/CLionProjects/game01/cmake-build-debug/CMakeFiles/game01.dir
+C:/Users/zheep/CLionProjects/game01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zheep/CLionProjects/game01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
